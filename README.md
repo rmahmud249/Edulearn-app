@@ -1,4 +1,4 @@
-# my_first_app
+# EduLearn App
 
 A new Flutter project.
 
